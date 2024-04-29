@@ -11,3 +11,7 @@ Q: WAF generateHash() that generate a hash tag (eg. #ChandanTheDeveloper) from a
 ## Day 3 : Count Occurrence of Character
 Q: WAF countChar() that takes two parameters: a) string and b) character to count, and return the total count of occurrence of the character in parameter.
 <hr>
+
+## Day 4 : Check Triangle Type : "Equilateral", "Isosceles", or "Scalene"
+Q: WAF checkTriangleType() that takes three parameters representing the lengths of the three sides of a triangle. The function should return a string indicating the type of the triangle: "Equilateral", "Isosceles", or "Scalene".
+<hr>
