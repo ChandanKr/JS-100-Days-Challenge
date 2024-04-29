@@ -15,3 +15,7 @@ Q: WAF countChar() that takes two parameters: a) string and b) character to coun
 ## Day 4 : Check Triangle Type : "Equilateral", "Isosceles", or "Scalene"
 Q: WAF checkTriangleType() that takes three parameters representing the lengths of the three sides of a triangle. The function should return a string indicating the type of the triangle: "Equilateral", "Isosceles", or "Scalene".
 <hr>
+
+## Day 5 : Sort an Array (of numbers)
+Q:  WAF sortAscending() to sort an array of numbers in an ascending order.
+<hr>
