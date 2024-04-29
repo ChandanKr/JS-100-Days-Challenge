@@ -1,0 +1,12 @@
+{
+  "name": "js-100-days-challenge",
+  "version": "1.0.0",
+  "description": "js-100-days-challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./100-Days/Day2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
