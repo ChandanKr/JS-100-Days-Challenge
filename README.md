@@ -35,3 +35,7 @@ Q: WAF factorial() that takes a non-negative integer as input and return it's fa
 ## Day 9 : Calculate average
 Q: WAF calcAverage() that takes an array of numbers as input and returns the average of those numbers.
 <hr>
+
+## Day 10 : Are arrays EQUAL?
+Q: WAF arraysAreEqual() that takes two arrays aar1 and arr2 as input and returns "True", if the arrays are equal (i.e., contains the same elements in same order), "False" otherwise.
+<hr>
