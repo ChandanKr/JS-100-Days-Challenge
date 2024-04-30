@@ -19,3 +19,7 @@ Q: WAF checkTriangleType() that takes three parameters representing the lengths 
 ## Day 5 : Sort an Array (of numbers)
 Q:  WAF sortAscending() to sort an array of numbers in an ascending order.
 <hr>
+
+## Day 6 : String Palindrome
+Q:  WAF isPalindrome() to determine whether a given string is a palindrome or not.
+<hr>
