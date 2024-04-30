@@ -23,3 +23,7 @@ Q:  WAF sortAscending() to sort an array of numbers in an ascending order.
 ## Day 6 : String Palindrome
 Q:  WAF isPalindrome() to determine whether a given string is a palindrome or not.
 <hr>
+
+## Day 7 : Find maximum from a given array
+Q:  WAF findMax() that takes an array of numbers as input and returns the maximum number in the array.
+<hr>
