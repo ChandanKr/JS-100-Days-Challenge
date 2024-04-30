@@ -21,9 +21,9 @@ const isPalindrome = (str) => {
     : `False - "${str}" is not a Palindrome.`;
 };
 
-console.log(isPalindrome("Racecar")); // Output: True
-console.log(isPalindrome("hello")); // Output: False
-console.log(isPalindrome("A man, a plan, a canal, Panama")); // Output: True
+console.log(isPalindrome("Racecar")); // Output: True - "Racecar" is a Palindrome.
+console.log(isPalindrome("hello")); // Output: False - "hello" is not a Palindrome.
+console.log(isPalindrome("A man, a plan, a canal, Panama")); // Output: True - "A man, a plan, a canal, Panama" is a Palindrome.
 
 //!===========================================================================================
 //? Special Note:
