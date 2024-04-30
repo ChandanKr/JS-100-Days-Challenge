@@ -27,3 +27,7 @@ Q:  WAF isPalindrome() to determine whether a given string is a palindrome or no
 ## Day 7 : Find maximum from a given array
 Q:  WAF findMax() that takes an array of numbers as input and returns the maximum number in the array.
 <hr>
+
+## Day 8 : Find Factorial of a number
+Q: WAF factorial() that takes a non-negative integer as input and return it's factorial.
+<hr>
