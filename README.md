@@ -31,3 +31,7 @@ Q:  WAF findMax() that takes an array of numbers as input and returns the maximu
 ## Day 8 : Find Factorial of a number
 Q: WAF factorial() that takes a non-negative integer as input and return it's factorial.
 <hr>
+
+## Day 9 : Calculate average
+Q: WAF calcAverage() that takes an array of numbers as input and returns the average of those numbers.
+<hr>
