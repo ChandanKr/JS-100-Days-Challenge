@@ -39,3 +39,7 @@ Q: WAF calcAverage() that takes an array of numbers as input and returns the ave
 ## Day 10 : Are arrays EQUAL?
 Q: WAF arraysAreEqual() that takes two arrays aar1 and arr2 as input and returns "True", if the arrays are equal (i.e., contains the same elements in same order), "False" otherwise.
 <hr>
+
+## Day 11 : Digits Sum
+Q: WAF sumOfDigits() that takes a number as input and returns the sum of it's digits.
+<hr>
