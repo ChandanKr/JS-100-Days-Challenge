@@ -9,7 +9,6 @@
 //? Sol:
 
 const isPowerOfTwo = (number) => {
-    debugger;
     return number > 0 && (number & (number - 1)) === 0;
 };
 
