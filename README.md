@@ -55,3 +55,7 @@ Q: WAF countVowels() that takes a string as an input and returns the total count
 ## Day 14 : Check - is power of 2 ??
 Q: WAF isPowerOfTwo() that takes a number as an input and returns "true" if number is a power of two, "false" otherwise.
 <hr>
+
+## Day 15 : Sum of Squares of all element of an array
+Q: WAF sumOfSquares() that takes aa array as input, that calculates Sum of Squares of all element in the array.
+<hr>
