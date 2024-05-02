@@ -59,3 +59,7 @@ Q: WAF isPowerOfTwo() that takes a number as an input and returns "true" if numb
 ## Day 15 : Sum of Squares of all element of an array
 Q: WAF sumOfSquares() that takes aa array as input, that calculates Sum of Squares of all element in the array.
 <hr>
+
+## Day 16 : Find minimum value from a given array
+Q: WAF findMin() that takes an array of numbers as input and returns the minimum number in the array.
+<hr>
