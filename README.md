@@ -47,3 +47,7 @@ Q: WAF sumOfDigits() that takes a number as input and returns the sum of it's di
 ## Day 12 : Remove Duplicates From Array
 Q: WAF removeDuplicates() that takes an array of integers as input and removes all the duplicate elements, returning a new array with only unique elements.
 <hr>
+
+## Day 13 : Count Number of Vowels in a String
+Q: WAF countVowels() that takes a string as an input and returns the total count of vowels in that provided string
+<hr>
