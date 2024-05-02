@@ -51,3 +51,7 @@ Q: WAF removeDuplicates() that takes an array of integers as input and removes a
 ## Day 13 : Count Number of Vowels in a String
 Q: WAF countVowels() that takes a string as an input and returns the total count of vowels in that provided string
 <hr>
+
+## Day 14 : Check - is power of 2 ??
+Q: WAF isPowerOfTwo() that takes a number as an input and returns "true" if number is a power of two, "false" otherwise.
+<hr>
