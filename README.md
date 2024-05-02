@@ -43,3 +43,7 @@ Q: WAF arraysAreEqual() that takes two arrays aar1 and arr2 as input and returns
 ## Day 11 : Digits Sum
 Q: WAF sumOfDigits() that takes a number as input and returns the sum of it's digits.
 <hr>
+
+## Day 12 : Remove Duplicates From Array
+Q: WAF removeDuplicates() that takes an array of integers as input and removes all the duplicate elements, returning a new array with only unique elements.
+<hr>
