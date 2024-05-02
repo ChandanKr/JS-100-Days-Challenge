@@ -6,7 +6,7 @@
 // The input array may contain both positive and negative integers.
 // The input array may be empty.
 // The elements in the input array are not guaranteed to be sorted.
-// The out array should retain the original order of elements from the input array.
+// The output array should retain the original order of elements from the input array.
 
 //? Sol:
 
