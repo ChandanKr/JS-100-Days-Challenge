@@ -75,3 +75,7 @@ Q: WAF checkCharValue() that takes a character as input and returns "UPPERCASE" 
 ## Day 19 : check string starts with given substring or not
 Q: WAF startsWithSubstring() that takes a string and a substring as input and check whether the input string starts with given substring or not.
 <hr>
+
+## Day 20 : Reverse a String
+Q: WAF reverseString() that takes a string as input and return the revered value of this string.
+<hr>
