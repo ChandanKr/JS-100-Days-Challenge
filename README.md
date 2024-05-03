@@ -63,3 +63,7 @@ Q: WAF sumOfSquares() that takes aa array as input, that calculates Sum of Squar
 ## Day 16 : Find minimum value from a given array
 Q: WAF findMin() that takes an array of numbers as input and returns the minimum number in the array.
 <hr>
+
+## Day 17 : String to camelCase and snake_case
+Q: WAF camelSnakeCase() which calls two more functions, toCamelCase() and to_snake_case() inside it and returns camelCase and snake_case of the string provided.
+<hr>
