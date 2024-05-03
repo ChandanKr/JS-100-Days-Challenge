@@ -72,4 +72,6 @@ Q: WAF camelSnakeCase() which calls two more functions, toCamelCase() and to_sna
 Q: WAF checkCharValue() that takes a character as input and returns "UPPERCASE" for uppercase value, and "lowercase" for lowercase value.
 <hr>
 
-
+## Day 19 : check string starts with given substring or not
+Q: WAF startsWithSubstring() that takes a string and a substring as input and check whether the input string starts with given substring or not.
+<hr>
