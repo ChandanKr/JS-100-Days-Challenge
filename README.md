@@ -67,3 +67,9 @@ Q: WAF findMin() that takes an array of numbers as input and returns the minimum
 ## Day 17 : String to camelCase and snake_case
 Q: WAF camelSnakeCase() which calls two more functions, toCamelCase() and to_snake_case() inside it and returns camelCase and snake_case of the string provided.
 <hr>
+
+## Day 18 : check UPPERCASE or lowercase
+Q: WAF checkCharValue() that takes a character as input and returns "UPPERCASE" for uppercase value, and "lowercase" for lowercase value.
+<hr>
+
+
