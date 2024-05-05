@@ -10,7 +10,6 @@
 
 //? Sol:
 
-//* Method 2: without using inbuilt method
 const calcMean = (arr) => {
   let sum = arr.reduce((acc, currElem) => acc + currElem, 0);
 
