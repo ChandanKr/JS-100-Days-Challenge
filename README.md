@@ -83,3 +83,7 @@ Q: WAF reverseString() that takes a string as input and return the revered value
 ## Day 21 : Calculate MEAN
 Q: WAF calcMean() that takes an array of numbers as input and returns the mean (average) of these numbers.
 <hr>
+
+## Day 21 : Find MEDIAN
+Q: WAF findMedian() that takes an array of numbers as input and returns the median value. If the array has an even number of elements, return the average of the two middle values.
+<hr>
