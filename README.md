@@ -103,3 +103,7 @@ Q: WAF factorial() that takes a non-negative integer as input and return it's fa
 ## Day 26 : Fibonacci Using Recursion
 Q: WAF fibonacci() that takes a non-negative integer as input and return the nth Fibonacci number.
 <hr>
+
+## Day 27 : Repeat a String
+Q: WAF repeatString() that takes two parameters as input: str and num, it return the repeated concatenated string with given num value.
+<hr>
