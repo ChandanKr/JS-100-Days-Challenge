@@ -87,3 +87,7 @@ Q: WAF calcMean() that takes an array of numbers as input and returns the mean (
 ## Day 22 : Find MEDIAN
 Q: WAF findMedian() that takes an array of numbers as input and returns the median value. If the array has an even number of elements, return the average of the two middle values.
 <hr>
+
+## Day 23 : Count Occurrence of Elements in an array
+Q: WAF countElemOccurrence() to count the number of occurrences of each element in an array and store the counts in an object. The keys of the object should represent the elements of the array, and the values should represent the number of occurrence.
+<hr>
