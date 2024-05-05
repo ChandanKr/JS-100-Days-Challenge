@@ -91,3 +91,7 @@ Q: WAF findMedian() that takes an array of numbers as input and returns the medi
 ## Day 23 : Count Occurrence of Elements in an array
 Q: WAF countElemOccurrence() to count the number of occurrences of each element in an array and store the counts in an object. The keys of the object should represent the elements of the array, and the values should represent the number of occurrence.
 <hr>
+
+## Day 24 : Find MODE
+Q: WAF findMode() that takes an array of numbers as input and returns the mode value (the number that appears most frequently).
+<hr>
