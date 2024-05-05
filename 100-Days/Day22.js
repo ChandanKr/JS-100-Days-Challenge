@@ -1,4 +1,4 @@
-//! Day 21 : Find MEDIAN
+//! Day 22 : Find MEDIAN
 
 //? Q: WAF findMedian() that takes an array of numbers as input and returns the median value. If the array has an even number of elements, return the average of the two middle values.
 
