@@ -99,3 +99,7 @@ Q: WAF findMode() that takes an array of numbers as input and returns the mode v
 ## Day 25 : Find Factorial of a number using recursion
 Q: WAF factorial() that takes a non-negative integer as input and return it's factorial with the use of recursion function.
 <hr>
+
+## Day 26 : Fibonacci Using Recursion
+Q: WAF fibonacci() that takes a non-negative integer as input and return the nth Fibonacci number.
+<hr>
