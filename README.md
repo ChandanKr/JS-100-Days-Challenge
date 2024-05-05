@@ -79,3 +79,7 @@ Q: WAF startsWithSubstring() that takes a string and a substring as input and ch
 ## Day 20 : Reverse a String
 Q: WAF reverseString() that takes a string as input and return the revered value of this string.
 <hr>
+
+## Day 21 : Calculate MEAN
+Q: WAF calcMean() that takes an array of numbers as input and returns the mean (average) of these numbers.
+<hr>
