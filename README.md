@@ -107,3 +107,7 @@ Q: WAF fibonacci() that takes a non-negative integer as input and return the nth
 ## Day 27 : Repeat a String
 Q: WAF repeatString() that takes two parameters as input: str and num, it return the repeated concatenated string with given num value.
 <hr>
+
+## Day 28 : Truncate a String
+Q: WAF truncateString() that takes two parameters as input: str and maxLength. The function should truncate the input string str, if it's length exceeds the specified maxLength. If truncation occurs, the function should add "..." to the end of the truncated string.
+<hr>
