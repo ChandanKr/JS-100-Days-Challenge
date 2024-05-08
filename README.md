@@ -111,3 +111,7 @@ Q: WAF repeatString() that takes two parameters as input: str and num, it return
 ## Day 28 : Truncate a String
 Q: WAF truncateString() that takes two parameters as input: str and maxLength. The function should truncate the input string str, if it's length exceeds the specified maxLength. If truncation occurs, the function should add "..." to the end of the truncated string.
 <hr>
+
+## Day 29 : Number Range Generator
+Q: WAF generateNumRange() that generates an array containing consecutive numbers from a to b(inclusive).
+<hr>
