@@ -115,3 +115,7 @@ Q: WAF truncateString() that takes two parameters as input: str and maxLength. T
 ## Day 29 : Number Range Generator
 Q: WAF generateNumRange() that generates an array containing consecutive numbers from a to b(inclusive).
 <hr>
+
+## Day 30 : Recursive Number Range Generator
+Write a recursive function, generateNumRangeRecursive() that generates an array containing consecutive numbers from a to b(inclusive) using recursion.
+<hr>
