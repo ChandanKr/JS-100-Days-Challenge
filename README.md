@@ -129,3 +129,7 @@ Q: Write a function, simplePasswordValidator() that takes a single parameter:
     - The length must be at least of 8 characters.
 - The function should return "true" if the password meets all the criteria, "false" otherwise.
 <hr>
+
+## Day 32 : Mini Project: Image Filter App
+With the use of event delegation concept.
+<hr>
