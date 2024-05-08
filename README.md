@@ -117,7 +117,7 @@ Q: WAF generateNumRange() that generates an array containing consecutive numbers
 <hr>
 
 ## Day 30 : Recursive Number Range Generator
-Write a recursive function, generateNumRangeRecursive() that generates an array containing consecutive numbers from a to b(inclusive) using recursion.
+Q: Write a recursive function, generateNumRangeRecursive() that generates an array containing consecutive numbers from a to b(inclusive) using recursion.
 <hr>
 
 ## Day 31 : Simple Password Validation
