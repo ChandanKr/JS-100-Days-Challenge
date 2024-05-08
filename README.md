@@ -119,3 +119,13 @@ Q: WAF generateNumRange() that generates an array containing consecutive numbers
 ## Day 30 : Recursive Number Range Generator
 Write a recursive function, generateNumRangeRecursive() that generates an array containing consecutive numbers from a to b(inclusive) using recursion.
 <hr>
+
+## Day 31 : Simple Password Validation
+Q: Write a function, simplePasswordValidator() that takes a single parameter:
+- password: A string representing the password to be validated.
+- The function should validate the password based on the following criteria:
+
+    - The password must contain at least one lowercase letter, one uppercase letter, and one digit.
+    - The length must be at least of 8 characters.
+- The function should return "true" if the password meets all the criteria, "false" otherwise.
+<hr>
