@@ -10,16 +10,20 @@
 //* Output:
 // An array containing consecutive numbers from a to b(inclusive).
 
-
 //* Constraints:
 // a and b will be integers.
 // a <= b
 
 //? Sol:
-const truncateString = (str, maxLength) => {
-    return maxLength <= 0 ? str : str.slice(0, maxLength).concat("...");
-  };
-  
-  console.log(truncateString("A-tisket a-tasket A green and yellow basket", 8)); // Output: A-tisket...
-  console.log(truncateString("A-tisket a-tasket", 0)); // Output: A-tisket a-tasket
-  
+const generateNumRange = (a, b) => {
+  let arr = [];
+  while (a <= b) {
+    arr.push(a);
+    a++;
+  }
+  return arr;
+};
+
+console.log(generateNumRange(0, 5)); // Output: [0, 1, 2, 3, 4, 5]
+console.log(generateNumRange(3, 7)); // Output: [3, 4, 5, 6, 7]
+console.log(generateNumRange(-2, 2)); // Output: [-2, -1, 0, 1, 2]
