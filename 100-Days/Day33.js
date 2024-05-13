@@ -12,7 +12,7 @@ const randomHexColor = () => {
     return `#${Math.random().toString(16).slice(2, 8).padEnd(6, 0).toUpperCase()}`;
 };
 
-console.log(randomHexColor()); // Output: Random 7 digit char starting with # (e.g., #GT3D6M).
+console.log(randomHexColor()); // Output: Random 7 digit char starting with # (e.g., #28FC39).
 
 
 
