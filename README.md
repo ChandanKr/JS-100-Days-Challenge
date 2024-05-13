@@ -133,3 +133,7 @@ Q: Write a function, simplePasswordValidator() that takes a single parameter:
 ## Day 32 : Mini Project: Image Filter App
 With the use of event delegation concept.
 <hr>
+
+## Day 33 : Random Hex Color Generator
+Q: Write a function, randomHexColor() that generates a random hexadecimal color code each time it is called. The function should return a string, starting with "#", representing the random color code in the format of "#RRGGBB", where RR, GG and BB are two-digit hexadecimal numbers representing the RED, GREEN and BLUE components of the color, respectively.
+<hr>
