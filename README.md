@@ -138,3 +138,7 @@ With the use of event delegation concept.
 Q: Write a function, randomHexColor() that generates a random hexadecimal color code each time it is called. The function should return a string, starting with "#", representing the random color code in the format of "#RRGGBB", where RR, GG and BB are two-digit hexadecimal numbers representing the RED, GREEN and BLUE components of the color, respectively.
 <hr>
 
+## Day 34 : Remove Duplicates from an Array
+Q: Write a function, removeDuplicates() that takes an array of elements as input and returns a new array with all unique elements inside it.
+<hr>
+
