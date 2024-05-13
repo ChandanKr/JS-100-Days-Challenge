@@ -142,3 +142,7 @@ Q: Write a function, randomHexColor() that generates a random hexadecimal color 
 Q: Write a function, removeDuplicates() that takes an array of elements as input and returns a new array with all unique elements inside it.
 <hr>
 
+## Day 35 : Check Object Emptiness
+Q: Write a function, isObjectEmpty() that takes an object as input and determines whether it is empty or not. An empty object is defined as an object with no own properties.
+<hr>
+
