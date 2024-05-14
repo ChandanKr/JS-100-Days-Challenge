@@ -149,3 +149,7 @@ Q: Write a function, isObjectEmpty() that takes an object as input and determine
 ## Day 36 : Convert Object to Array and Vice-Versa.
 <hr>
 
+## Day 37 : Simple Interest Calculator
+Q: Write a function, calculateSimpleInterest() that takes three parameters as input: principal amount, rate of interest and time in years and calculates the simple interest with given parameters.
+<hr>
+
