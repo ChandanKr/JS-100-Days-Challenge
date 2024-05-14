@@ -153,3 +153,7 @@ Q: Write a function, isObjectEmpty() that takes an object as input and determine
 Q: Write a function, calculateSimpleInterest() that takes three parameters as input: principal amount, rate of interest and time in years and calculates the simple interest with given parameters.
 <hr>
 
+## Day 38 : Calculate Number of Days Between Two Dates
+Q: Write a function, calculateDaysBetweenDates() that takes two date string parameters in YYYY-MM-DD format as input and calculates the number of days between these two dates.
+<hr>
+
