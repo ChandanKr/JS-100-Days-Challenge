@@ -146,3 +146,6 @@ Q: Write a function, removeDuplicates() that takes an array of elements as input
 Q: Write a function, isObjectEmpty() that takes an object as input and determines whether it is empty or not. An empty object is defined as an object with no own properties.
 <hr>
 
+## Day 36 : Convert Object to Array and Vice-Versa.
+<hr>
+
