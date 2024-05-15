@@ -165,3 +165,7 @@ Q: Write a function, calculateAge() that takes a birth date string parameters in
 Q: Write a function, generateBarChart() that takes an array of numbers as input and generates a simple text-based bar chart.
 <hr>
 
+## Day 41 : Simple Currency Converter
+Q: Write a function, convertCurrency() that takes three parameters: amount, fromCurrency and toCurrency as input and convert that amount to another using static exchange rates.
+<hr>
+
