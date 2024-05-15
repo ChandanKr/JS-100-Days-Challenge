@@ -161,3 +161,7 @@ Q: Write a function, calculateDaysBetweenDates() that takes two date string para
 Q: Write a function, calculateAge() that takes a birth date string parameters in YYYY-MM-DD format as input and calculates the current age of the person in years.
 <hr>
 
+## Day 40 : Generate Simple Bar Chart With Array Data
+Q: Write a function, generateBarChart() that takes an array of numbers as input and generates a simple text-based bar chart.
+<hr>
+
