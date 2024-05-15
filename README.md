@@ -157,3 +157,7 @@ Q: Write a function, calculateSimpleInterest() that takes three parameters as in
 Q: Write a function, calculateDaysBetweenDates() that takes two date string parameters in YYYY-MM-DD format as input and calculates the number of days between these two dates.
 <hr>
 
+## Day 39 : Age Calculator From Birth-Date
+Q: Write a function, calculateAge() that takes a birth date string parameters in YYYY-MM-DD format as input and calculates the current age of the person in years.
+<hr>
+
