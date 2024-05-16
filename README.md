@@ -169,3 +169,7 @@ Q: Write a function, generateBarChart() that takes an array of numbers as input 
 Q: Write a function, convertCurrency() that takes three parameters: amount, fromCurrency and toCurrency as input and convert that amount to another using static exchange rates.
 <hr>
 
+## Day 42 : Credit Card Validation (According to Luhn Algorithm)
+Q: Write a function, validateCreditCard() to validate a credit card using Luhn Algorithm.
+<hr>
+
