@@ -173,3 +173,13 @@ Q: Write a function, convertCurrency() that takes three parameters: amount, from
 Q: Write a function, validateCreditCard() to validate a credit card using Luhn Algorithm.
 <hr>
 
+## Day 43 : FizzBuzz Challenge
+Q: Write a function, fizzBuzz() that accept two parameters in integer format: startNum and endNum as input and return an array containing numbers and specific strings based on following rules:
+
+- for each number i in the range from startNum to endNum (both inclusive).
+- if i is divisible by both 3 and 5, include "FizzBuzz" in the result.
+- if i is divisible by only 3, include "Fizz" in the result.
+- if i is divisible by only 5, include "Buzz" in the result.
+- if i is neither divisible by 3 nor by 5, include i as a string itself in the result.
+<hr>
+
