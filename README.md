@@ -199,3 +199,12 @@ Q: You are tasked with implementing a function to validate email address using a
     - The top-level domain (TLD) must consist of at least two alphabetic characters (e.g., "com", "org", "net", etc.)
 <hr>
 
+## Day 45 : Password Validation with REGEX
+Q: Write a function, validatePassword() that takes a single string parameter - password as input.
+
+- **The function should validate the password based on the following criteria:**
+    - The length must be at least of 8 characters.
+    - The password must contain at least one lowercase letter (a-z), one uppercase letter (A-Z), one digit (0-9) and one special character from the set: !@#$%^&*()-_+=
+    - he function should return "true" if the password meets all the criteria, "false" otherwise.
+<hr>
+
