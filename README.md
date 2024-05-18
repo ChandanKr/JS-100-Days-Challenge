@@ -208,3 +208,12 @@ Q: Write a function, validatePassword() that takes a single string parameter - p
     - he function should return "true" if the password meets all the criteria, "false" otherwise.
 <hr>
 
+## Day 46 : Indian Mobile Number Validation with REGEX
+Q: Write a function, validateMobileNumber() that takes a single string parameter - mobileNumber as input.
+
+- **The function should validate the Indian mobileNumber based on the following criteria:**
+    - The length must be at least of 10 characters.
+    - The number must start with 6, 7, 8, or 9.
+    - The function should return "true" if the Indian mobileNumber meets all the criteria, "false" otherwise.
+<hr>
+

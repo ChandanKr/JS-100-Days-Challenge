@@ -4,7 +4,7 @@
   "description": "js-100-days-challenge",
   "main": "index.js",
   "scripts": {
-    "start": "node ./100-Days/Day45.js"
+    "start": "node ./100-Days/Day46.js"
   },
   "keywords": [],
   "author": "",
