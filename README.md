@@ -183,3 +183,19 @@ Q: Write a function, fizzBuzz() that accept two parameters in integer format: st
 - if i is neither divisible by 3 nor by 5, include i as a string itself in the result.
 <hr>
 
+## Day 44 : Email Validation with Regular Expressions (REGEX)
+Q: You are tasked with implementing a function to validate email address using a regular expression. Write a function, validateEmail() that takes a string email as input and returns "true" if the email address is valid according to the following rules:
+
+- **The local part of the email address (before "@") can contain:**
+    - Alphanumeric characters (A-Z, a-z, 0-9)
+    - Special characters: period("."), underscore("_"), percent("%"), plus("+"), or hyphen("-")
+    - Consecutive periods are not allowed
+    - Special characters can't appear at the beginning or end of the local part
+
+- **The domain part of the email address (after "@") can contain:**
+    - Alphanumeric characters (A-Z, a-z, 0-9)
+    - Special characters: period(".") or hyphen("-")
+    - Must contain at least one period(".")
+    - The top-level domain (TLD) must consist of at least two alphabetic characters (e.g., "com", "org", "net", etc.)
+<hr>
+
