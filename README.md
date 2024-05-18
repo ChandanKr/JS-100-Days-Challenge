@@ -205,7 +205,7 @@ Q: Write a function, validatePassword() that takes a single string parameter - p
 - **The function should validate the password based on the following criteria:**
     - The length must be at least of 8 characters.
     - The password must contain at least one lowercase letter (a-z), one uppercase letter (A-Z), one digit (0-9) and one special character from the set: !@#$%^&*()-_+=
-    - he function should return "true" if the password meets all the criteria, "false" otherwise.
+    - The function should return "true" if the password meets all the criteria, "false" otherwise.
 <hr>
 
 ## Day 46 : Indian Mobile Number Validation with REGEX
